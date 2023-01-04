@@ -33,3 +33,32 @@ header .logo {
 main {
     padding: 20px;
 }
+
+#submit {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#nameDisplay {
+    color: Green;
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 300px;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+h2 {
+    background: red;
+    margin-left: 100px;
+    margin-right: 300px;
+    text-align: center;
+    line-height: 200px;
+    color: white;
+    padding-bottom: 100px;
+    border-radius: 20px;
+}
+
+#name-input {
+
+}
