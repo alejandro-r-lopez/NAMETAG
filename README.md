@@ -3,9 +3,9 @@
 #HTML
 
 <section> 
-    </input>
-    <button>
-<section>   <h2>   <p>
+    </input> <button>
+<section>   
+  <p>
 
 #Events
 Button = click

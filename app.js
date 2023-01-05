@@ -13,9 +13,7 @@ const displayName = document.getElementById('nameDisplay');
 const displayBtn = document.getElementById('submit');
 const nameInput = document.getElementById('name-input');
 
-
 displayBtn.addEventListener('click', () => {
     displayName.textContent = nameInput.value;
-    nameInput.value = 'Your Name Here';
+    nameInput.value = '';
 });
-
